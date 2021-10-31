@@ -1,6 +1,10 @@
 <template>
   <div id="app">
-    <h1>黑馬</h1>
+    <h1>黑馬22222</h1>
+    <div>
+      <i class="toutiao toutiao-wenda"></i>
+      <van-button type="primary">主要按钮</van-button>
+    </div>
     <router-view />
   </div>
 </template>
